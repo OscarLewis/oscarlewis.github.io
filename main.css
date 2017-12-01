@@ -1,4 +1,8 @@
-h1 {
-   margin: auto;
-   width: 50%;
+#title {
+   display: block;
+}
+
+#header {
+   width: 100%;
+   text-align: center;
 }
